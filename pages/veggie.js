@@ -10,7 +10,7 @@ export default function Veggie() {
       <h1>Veggie</h1>
       <p>Viele leckere Veggie Gerichte</p>
       <Image
-        src="/../public/pizza.jpg"
+        src="/pizza.jpg"
         alt="Pizza mit Gemüse"
         layout="responsive"
         width={2400}
