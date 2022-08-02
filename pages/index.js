@@ -7,6 +7,7 @@ export default function Home() {
       <Head>
         <title>Startseite</title>
       </Head>
+      <h1> Rezeptesammlung </h1>
     </>
   );
 }
